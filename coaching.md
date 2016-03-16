@@ -32,7 +32,14 @@ De coaching sessies bestaan uit volgende onderdelen:
 4.	keuze en afsprakenproces.   
 	
 
-Voor een afspraak kan u mij contacteren via (jago.crol@grow-2.be) of via GSM op nummer 0479/200118
+Voor een afspraak kan u mij contacteren via (<script type="text/javascript" language="javascript">
+<!--
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+{ coded = "pMQa.ndaE@Qda3-0.oL";key = "UNmrYSKMzTDgbcx5pEPI21dfFyXeu7Qon94wBA80VhvOsZLRCqaGJk3tH6Wjli";shift=coded.length;link="";for (i=0; i<coded.length; i++) {if (key.indexOf(coded.charAt(i))==-1) {ltr = coded.charAt(i);link += (ltr);}else {ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length;link += (key.charAt(ltr))}}document.write("<a href='mailto:"+link+"'>"+link+"</a>")}
+//--></script><noscript>Sorry, je hebt Javascript nodig om me te mailen. Dit staat momenteel af in je browser.</noscript>) of via GSM op nummer <a href="tel:+32479200118" itemprop="telephone">0479 / 200 118</a>
 
-Bekijk ook zeker eens mijn website (www.grow-2.be of www.op-weg-naar-jouw-innerlijk-geluk.webnode.be ).
+Bekijk ook zeker eens mijn website ([www.grow-2.be](http://www.grow-2.be) of [www.op-weg-naar-jouw-innerlijk-geluk.webnode.be](http://www.op-weg-naar-jouw-innerlijk-geluk.webnode.be) ).
 
