@@ -8,18 +8,48 @@ permalink: /dietetiek/
 # Diëtiste
 
 ## Jindra Van Den Bossche
-Ik studeerde in 2014 af als Professionele Bachelor in de voedings-en dieetleer aan de Katholieke Hogeschool Sint-Lieven Gent. Op de praktijk behandel ik zowel kinderen als volwassenen. Er zijn ook huisbezoeken mogelijk.
 
-- Begeleiding in het zoeken naar een gezond en evenwichtig voedingspatroon
-- Proteïnedieet
-- Overgewicht en Obesistas
-- Cholesterol
-- Allergieën
-- Voeding bij sport
-- Eetstoornissen
-- Prikkelbaar Darmsyndroom
-- Slikstoornissen bij ouderen
 
+Als gediplomeerd en erkend diëtiste help ik graag jong en oud met een op maat gemaakt voedings- of dieetadvies. Daarnaast geef ik u de nodige begeleiding en ondersteuning bij het aanpassen van uw voedings- en leefgewoonten. U krijgt alle advies en weetjes omtrent voeding en gezondheid.
+
+Door mijn ervaring en continue bijscholing, verzeker ik u een uitermate professionele aanpak.
+
+### Wat mag u verwachten?
+
+Tijdens een eerste consultatie analyseren we samen uw voedingsgewoonten en levensstijl. We bespreken uw doelen en stellen een realistisch en haalbaar voedingsschema op.
+
+Vergeet dat ouderwetse dieet waarbij u niets meer mag eten en kies voor een professionele opvolging, zodat u elke dag gemotiveerd naar uw doel kan werken.
+
+We zorgen ervoor dat u zich goed voelt in uw vel en streven naar een gezondere levenskwaliteit. Naast een dieetadvies kan u ook steeds terecht voor personal coaching en een proteïnedieet.
+
+### Wie kan er bij mij terecht?
+
+* Zij die behoefte hebben aan een gezond voedingsadvies
+* Kinderen en volwassenen met gewichtsproblemen: vermageren of bijkomen
+* Zij die een beroep willen doen op een proteïnedieet
+* Mensen met een te hoge cholesterol
+* Hart- en vaatziektes
+* Maag- en darmproblemen/Spijsverteringsproblemen
+* Eetstoornissen
+* Voeding bij stress/depressie/burn-outs
+* Kanker: zowel voor, tijdens als na operatie/behandelingen
+* Diabetes mellitus type I en II
+
+### Personal coaching
+Tijdens een consultatie kan u eveneens kiezen voor personal coaching. Dit houdt in dat u naast het persoonlijk voedingsadvies ook thuis verder opgevolgd kan worden. Tijdens deze sessies gaan we samen naar de winkel waar je voedingsetiketten leert lezen. Maar naast voeding is beweging ook zeer belangrijk voor uw gezonde levensstijl. Samen gaan we op zoek naar uw favoriete bewegingsactiviteit en dragen we er zorgen voor dat deze toegepast wordt in uw dagelijks leven. U wordt daarbij gemotiveerd om tot het uiterste te gaan zodat uw doelstellingen behaald worden.
+Tijdens deze persoonlijke sessies ontvangt u tips en weetjes die ervoor zorgen dat u uw lichaam voor eens en altijd goed leert begrijpen.
+
+### Proteïnedieet
+Tarieven:
+
+* 1e en 2e consultatie (60 minuten):	€ 50
+* Opvolgconsultaties (30 minuten):	€ 25
+* Proteïnedieet:				Op aanvraag
+* Verschillende dieetformules mogelijk:	Op aanvraag
+
+*Er wordt een toeslag van € 5 verrekend indien de consultaties aan huis gegeven worden.
+
+Contacteer uw mutualiteit om meer te weten over mogelijke terugbetaling van dieetconsultaties.
 
 
 U kan bij mij een afspraak maken via mail (<script type="text/javascript" language="javascript">
