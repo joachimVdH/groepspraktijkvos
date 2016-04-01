@@ -35,7 +35,12 @@ nav{
         margin: 0px;
         padding-top: 0.5em;
         padding-bottom: 0.5em;
-        text-align: right;
+        text-align: left;
+        li{
+            // padding-right: 1em;
+            border-bottom: none;
+            text-align: right;
+        }
     }
 }
 
@@ -51,4 +56,9 @@ footer{
 
 a{
     text-decoration: none;
+}
+
+iframe{
+    //google map
+    height: 20em;
 }
