@@ -11,8 +11,7 @@ Jago Crol, associated certified coach degree bij het International Coaching Fede
 
 Bij loopbaanvragen (erkend en ondersteund door VDAB) worden o.a. het (her)ontdekken van sterkten, talenten, waarden en het ontwikkelen van potentieel in kaart gebracht.  
 
-Begeleiding voor: 
-Kinderen vanaf +/- 10 jaar, adolescenten en volwassenen 
+Begeleiding voor kinderen vanaf +/- 10 jaar, adolescenten en volwassenen met:
 
 -	Faalangst & weinig zelfvertrouwen 
 -	Onrust & onzekerheid 
@@ -22,8 +21,9 @@ Kinderen vanaf +/- 10 jaar, adolescenten en volwassenen
 -	Versterken van motivatie bij revalidatie 
 -	Persoonlijke ontwikkeling 
 -	Rouwbegeleiding 
--	Loopbaan begeleiding 
-Bij de aanvang wordt er ruim de tijd genomen voor een intakegesprek.    
+-	Loopbaanbegeleiding 
+
+Bij de aanvang wordt er ruim de tijd genomen voor een intakegesprek.   
 De coaching sessies bestaan uit volgende onderdelen: 
 
 1.	doelbepaling of resultaatbepaling  (wat wil je bereiken?) 

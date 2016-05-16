@@ -5,11 +5,11 @@ permalink: /logopedie/steffie_vos
 ---
 # Logopediste
 
-### Steffie Vos
+## Steffie Vos
 
 In 2011 studeerde ik af als Master in de logopedische en audiologische wetenschappen aan de KULeuven. Na mijn afstuderen ben ik direct als zelfstandige logopediste aan het werk gegaan. 
 
-Ik behandel zowel kinderen, jongeren als volwassenen met volgende problematieken:
+Ik behandel zowel kinderen, jongeren als volwassenen met:
  
 - Leermoeilijkheden en -stoornissen (dyslexie, dysorthografie en dyscalculie). 
 - Neurogene taal-, spraak- en slikstoornissen - voedingsproblemen. 
@@ -18,7 +18,7 @@ Ik behandel zowel kinderen, jongeren als volwassenen met volgende problematieken
 - Articulatiestoornissen - myofunctionele stoornissen 
 - Stemstoornissen (stembandknobbels, dysfonie, afonie, mutatiestoornissen,...) 
 
-Therapieën gaan door op de praktijk, op school of tijdens een huisbezoek. 
+Therapieën gaan door op de praktijk, op school of tijdens een huisbezoek.  
 Een afspraak maken kan via mail (<script type="text/javascript" language="javascript">
 <!--
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona Random encryption key feature by Andrew Moulden, Site Engineering Ltd This code is freeware provided these four comment lines remain intact

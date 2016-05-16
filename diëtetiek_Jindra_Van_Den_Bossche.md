@@ -14,14 +14,6 @@ Als gediplomeerd en erkend diëtiste help ik graag jong en oud met een op maat g
 
 Door mijn ervaring en continue bijscholing, verzeker ik u een uitermate professionele aanpak.
 
-### Wat mag u verwachten?
-
-Tijdens een eerste consultatie analyseren we samen uw voedingsgewoonten en levensstijl. We bespreken uw doelen en stellen een realistisch en haalbaar voedingsschema op.
-
-Vergeet dat ouderwetse dieet waarbij u niets meer mag eten en kies voor een professionele opvolging, zodat u elke dag gemotiveerd naar uw doel kan werken.
-
-We zorgen ervoor dat u zich goed voelt in uw vel en streven naar een gezondere levenskwaliteit. Naast een dieetadvies kan u ook steeds terecht voor personal coaching en een proteïnedieet.
-
 ### Wie kan er bij mij terecht?
 
 * Zij die behoefte hebben aan een gezond voedingsadvies
@@ -50,6 +42,15 @@ Tarieven:
 *Er wordt een toeslag van € 5 verrekend indien de consultaties aan huis gegeven worden.
 
 Contacteer uw mutualiteit om meer te weten over mogelijke terugbetaling van dieetconsultaties.
+
+
+### Wat mag u verwachten?
+
+Tijdens een eerste consultatie analyseren we samen uw voedingsgewoonten en levensstijl. We bespreken uw doelen en stellen een realistisch en haalbaar voedingsschema op.
+
+Vergeet dat ouderwetse dieet waarbij u niets meer mag eten en kies voor een professionele opvolging, zodat u elke dag gemotiveerd naar uw doel kan werken.
+
+We zorgen ervoor dat u zich goed voelt in uw vel en streven naar een gezondere levenskwaliteit. Naast een dieetadvies kan u ook steeds terecht voor personal coaching en een proteïnedieet.
 
 
 U kan bij mij een afspraak maken via mail (<script type="text/javascript" language="javascript">
