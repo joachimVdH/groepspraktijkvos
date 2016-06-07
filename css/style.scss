@@ -3,22 +3,76 @@
 ---
 @charset "utf-8";
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "style"
-;
+$pesticide-debug: false;
+@import "pesticide";
+@import "base.scss";
+//@import "style";
+
+
+$fontFamily:'Open Sans', sans-serif;
+$colorGreenHeader:#008040;
+
+$sizeSmartPhone:26em; 		 /* 25em = *400px*/
+$sizeSmallScreen:43.5em; 	 /*696px*/
+$sizeNormalScreen:47em;		 /*752px*/
+$sizeBigScreen:51.25em;			 /*820px*/
+
+#mobileonly{
+    display: none;
+    margin:0em;
+}
+
+@media only screen and (max-width: $sizeSmartPhone) {
+    #mobileonly{
+        height: 1.7em;
+        display: block;
+        font-size: 1.0em;
+        font-weight: 300;
+        text-align: center;
+
+        a{
+            text-decoration: none;
+            color: black;
+            border: 1px solid black;	
+            padding-left: 0.3em;
+            padding-right: 0.3em;
+            padding-bottom: 0.1em;
+            margin-left: 0.2em;
+      }
+  }
+}  
+
+body,h1,h2,h3,h4,h5,h6{
+  font-family:$fontFamily ;
+  font-weight: 400;
+  color: #333333;
+}
+
+h1,h2,h3,h4,h5,h6{
+  color: #111111;
+}
 
 header{
-    border-bottom: 1px #000 solid;
-    text-align: center;
-    font-size: 2em;
-    //padding-left: 1em; 
-    height: 64px;
-    //margin-top: -0.7em;
-    
-    #logo{
-        padding: 0.1em;
-    }
+  background-color: $colorGreenHeader;
+  border-bottom: 1px #FFF solid;
+  text-align: center;
+  height: 4em;
+  line-height: 5em;   
+  padding: 0.7em; 
+  @media only screen and (max-width: $sizeSmartPhone) {
+    padding: 0.5em;
+  }
+}
+
+.site-title{
+  font-weight: 700;
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #FFFFFF;
+  @media only screen and (max-width: $sizeSmartPhone) {
+    font-size: 0.7em;
+  }
 }
 
 nav{
