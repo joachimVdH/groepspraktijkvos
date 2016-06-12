@@ -7,7 +7,9 @@ permalink: /coaching/jago_crol
 
 # Coaching
 
-Jago Crol, associated certified coach degree bij het International Coaching Federation,  gefundeerd door een jarenlange business management ervaring en hoofdzakelijk gericht op menselijke & individuele  ontwikkeling  zal met zijn gedreven & eigen persoonlijke aanpak eerst jouw coaching vraag en doel volledig ‘ontmisten’ om daarna alle mogelijke paden die leiden naar dat doel, samen te bewandelen, in de diepte te exploreren en jouw je actieplan laten opstellen.  
+## Jago Crol
+
+Associated certified coach degree bij het International Coaching Federation,  gefundeerd door een jarenlange business management ervaring en hoofdzakelijk gericht op menselijke & individuele  ontwikkeling  zal met zijn gedreven & eigen persoonlijke aanpak eerst jouw coaching vraag en doel volledig ‘ontmisten’ om daarna alle mogelijke paden die leiden naar dat doel, samen te bewandelen, in de diepte te exploreren en jouw je actieplan laten opstellen.  
 
 Bij loopbaanvragen (erkend en ondersteund door VDAB) worden o.a. het (her)ontdekken van sterkten, talenten, waarden en het ontwikkelen van potentieel in kaart gebracht.  
 

@@ -2,11 +2,30 @@
 <html lang="nl">
 {% include head.html %}
 <body>
-    {% include header.html %}
-    {% include navigation.html %}
-    <section class="col-8">
+    <header class="col-12 fixed"> 
+      {% include header.html %}
+    </header>
+    <section class="clear no-margin no-padding no-border col-12" id="banner">
+      <picture class="boekheader">
+        <source srcset="/img/boeken_900.jpg" media="(min-width: 721px)">
+        <img srcset="/img/boeken_360.jpg" alt="boeken">
+      </picture>
+    </section>
+    <nav class="col-full push-1-m col-1-5-m ">
+      {% include navigation.html %}
+    </nav>
+    <section class="col-full push-2-m col-3-5-m " id="content">
       {{ content }}
     </section>
-    {% include footer.html %}
+    <footer class="col-12">
+      {% include footer.html %}
+    </footer>
+  
+  <!-- <script src="{{ "/js/vendor/jquery-1.11.3.min.js" | prepend: site.baseurl }}" async></script> -->
+  <!-- <script src="{{ "/js/default.js" | prepend: site.baseurl }}" async></script> -->
+  
+  <script>
+    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.schedule-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create','UA-50033606-2');ga('send','pageview');
+  </script>
 </body>
 </html>

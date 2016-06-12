@@ -12,10 +12,16 @@ $pesticide-debug: false;
 $fontFamily:'Open Sans', sans-serif;
 $colorGreenHeader:#008040;
 
-$sizeSmartPhone:26em; 		 /* 25em = *400px*/
-$sizeSmallScreen:43.5em; 	 /*696px*/
-$sizeNormalScreen:47em;		 /*752px*/
-$sizeBigScreen:51.25em;			 /*820px*/
+// $sizeSmartPhone:26em; 		 /* 25em = *400px*/
+// $sizeSmallScreen:43.5em; 	 /*696px*/
+// $sizeNormalScreen:47em;		 /*752px*/
+// $sizeBigScreen:51.25em;			 /*820px*/
+
+// http://getbase.org/docs/grid.html
+$sizeSmartPhone:719px; // Mobile devices (breakpoint set at max 719px width)
+$sizeSmallScreen:980px; // Tablet devices (breakpoint set at max 980px width)
+$sizeNormalScreen:1140px; // Desktop devices (breakpoint set at max 1140px width)
+//$sizeBigScreen : bigger then normalscreen -> HD
 
 #mobileonly{
     display: none;
@@ -42,6 +48,11 @@ $sizeBigScreen:51.25em;			 /*820px*/
   }
 }  
 
+body{
+  height:100%;
+  padding-bottom:60px;
+}
+
 body,h1,h2,h3,h4,h5,h6{
   font-family:$fontFamily ;
   font-weight: 400;
@@ -53,13 +64,19 @@ h1,h2,h3,h4,h5,h6{
 }
 
 header{
+  z-index: 20000;
+  top:0px;
   background-color: $colorGreenHeader;
   border-bottom: 1px #FFF solid;
   text-align: center;
-  height: 4em;
+  height: 6em;
   line-height: 5em;   
-  padding: 0.7em; 
+  padding: 1.8em; 
+  opacity: 0.97;
+  filter: alpha(opacity=97);/* For IE8 and earlier */
+
   @media only screen and (max-width: $sizeSmartPhone) {
+    height: 4em;
     padding: 0.5em;
   }
 }
@@ -77,6 +94,7 @@ header{
 
 nav{
     width: 100%;
+    //margin-top: 4.1em;
     ul {
         padding: 0;
         margin: 0 auto;
@@ -96,23 +114,68 @@ nav{
             text-align: right;
         }
     }
+    
+    @media only screen and (max-width: $sizeSmartPhone) {
+      // margin: 0em auto;
+      padding-left: 0.3em;
+      padding-right: 0.3em;
+    }
 }
 
 section{
-    border-left: 1px #000 solid;
+    // border-left: 1px #000 solid;
+    
+    @media only screen and (max-width: $sizeSmartPhone) {
+      // margin: 0em auto;
+      padding-left: 0.3em;
+      padding-right: 0.3em;
+      border-left: 0px ;
+    }
+    @media only screen and (min-width: $sizeSmartPhone + 1) {
+      // margin: 4.1em auto;
+    }
 }
 
 footer{
-    border-top: 1px #000 solid;
-    text-align: center;
-    padding: 1em;
+  border-top: 10px white solid;
+  text-align: center;
+  padding: 1em;
+  background-color: $colorGreenHeader;
+  color: #FFFFFF;
+  position:absolute;
+  bottom:0;
+  a{
+    color: #e6e6e6;
+  }
 }
 
 a{
     text-decoration: none;
 }
+a:hover{
+  text-decoration: underline;
+}
 
 iframe{
     //google map
     height: 20em;
+}
+
+#banner{
+  @media only screen and (max-width: $sizeSmartPhone) {
+    
+  }
+  @media only screen and (min-width: $sizeSmartPhone + 1) {
+    margin-bottom: 2em;
+  }
+  .boekheader{
+    img{
+      width: 100%;
+      opacity: 0.85;
+      filter: alpha(opacity=85);/* For IE8 and earlier */
+      @media only screen and (min-width: $sizeSmartPhone + 1) {
+        height: 250px;
+      }
+    }
+  }
 }
