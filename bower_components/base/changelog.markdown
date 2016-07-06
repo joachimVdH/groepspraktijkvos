@@ -1,6 +1,41 @@
 # Base 2 Change Log
 
 
+## [3.1.3] - 2016-06-18
+### Base V3.1.3
+- Updated animate mixin to animation
+- Updated .animate and .animate-delay helpers to animation and animation-delay
+- Added arrow mixin
+- Version bump for style.scss, package.json and bower.json
+
+
+## [3.1.2] - 2016-06-17
+### Base V3.1.2
+- Updated styles.scss
+- Version bump for style.scss, package.json and bower.json
+
+
+## [3.1.1] - 2016-06-17
+### Base V3.1.1
+- Cleaned up styles.scss
+- Removed overflow hidden on pretty select (.select)
+- Version bump for style.scss, package.json and bower.json
+
+
+## [3.1.0] - 2016-06-17
+### Base V3.1.0
+- Cleaned up vendor prefixes on .button
+- Added variables to custom select
+- Cleaned up font-weight variables
+- Added flex helpers for medium, large and extra large devices
+- Added clearfix for medium, large and extra large devices
+- Removed Styleguide
+- Minor update in SCSS structure
+- Moved _helpers.scss into styles.scss
+- Updated default jQuery version to 1.12.4
+- Version bump for style.scss, package.json and bower.json
+
+
 ## [3.0.2] - 2016-05-21
 ### Base V3.0.2
 - Minor update to variable names for consistency ($base-link-color-hover to $base-link-hover-color, $base-input-background-color-focus to $base-input-background-focus-color and $base-input-border-color-focus to $base-input-border-focus-color)

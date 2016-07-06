@@ -1,12 +1,16 @@
 // ==========================================================================
-// Your Website / App Stylesheet
+// Website or App Stylesheet
 // ==========================================================================
 
-// Global Variables
-
-// Colours
+// Variables and Colors
+@import "styles/variables-colors";
 
 // Import Base
-@import "base.scss";
+@import "base";
 
-// Styles
+// Website / App Styles
+@import "styles/header";
+@import "styles/footer";
+
+// Import Base Helpers
+@import "base/_helpers";

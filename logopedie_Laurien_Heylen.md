@@ -7,6 +7,10 @@ permalink: /logopedie/laurien_heylen
 
 ## Laurien Heylen
 
+<picture class="portret">
+	<source srcset="/img/Laurien_medium.jpg" media="(min-width: 415px)">
+	<img srcset="/img/Laurien_mobile.jpg" alt="boeken">
+</picture>
 In 2013 ben ik afgestudeerd aan de K.U.Leuven als Master in de logopedische en audiologische wetenschappen. Sindsdien werk ik als zelfstandige logopediste met zowel kinderen, jongeren als volwassenen. De therapie kan doorgaan op school, in de praktijk of bij de patiënten thuis.
  
 Ik behandel zowel kinderen, jongeren als volwassenen met:
