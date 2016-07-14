@@ -183,8 +183,11 @@ iframe{
 .portret{
   img{
     width: 100%;
-    @media only screen and (min-width: 415px) {
+    @media only screen and (min-width: 769px) { //415px
       width: 300px;
+      float: right;
+      margin-left: 15px;
+      margin-bottom: 15px;
     }
   }
 }
