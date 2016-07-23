@@ -7,6 +7,12 @@ permalink: /kinesitherapie/typtien
 
 # Typtien
 
+
+<picture class="portret">
+	<source srcset="/img/typtien.webp" type="image/webp">
+	<img srcset="/img/typtien.jpg" alt="Typtien">
+</picture>
+
 Typtien is een speelse en kindvriendelijke manier om kinderen met fijnmotorische problemen, DCD, dyslexie, dyspraxie, AD(H)D,.. vlot blind te leren typen. 
 
 In groepjes van 4 of individueel wordt op een speels manier op 10 lessen van 1 uur de letters van het toetsenbord aangeleerd. Aan elke letter wordt een symbool, plaatsbepaling, kleur en versje gekoppeld om op  de verschillende leermanieren van een kind in te spelen.  De nadruk van deze cursus ligt op het motorisch leren en blind typen  i.p.v.  op het tempo. Dit wordt door herhaling en oefening gegenereerd.  Na elke sessie worden er ook huistaakjes mee naar huis gegeven, die het kind thuis moet maken. Eveneens wordt er aangeraden om thuis dagelijks een kwartiertje te oefenen.  Na het einde van de 10 sessies is het de bedoeling dat het kind alle letters kent en kan gebruiken.

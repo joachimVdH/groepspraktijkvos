@@ -8,7 +8,10 @@ permalink : /cursussen/
 # Cursussen
 
 ## [Trainingscursus TypTien](/kinesitherapie/typtien.html)
-
+[<picture>
+	<source srcset="/img/typtien.webp" type="image/webp">
+	<img srcset="/img/typtien.jpg" alt="Typtien">
+</picture>](/kinesitherapie/typtien.html)
 
 
 ## Zomercursus 2016
