@@ -9,6 +9,12 @@ permalink: /dietetiek/jindra_van_den_bossche
 
 ## Jindra Van Den Bossche
 
+<picture class="portret">
+	<source srcset="/img/Jindra_desktop_300x419.webp" media="(min-width: 769px)" type="image/webp">
+	<source srcset="/img/Jindra_desktop_300x419.jpg" media="(min-width: 769px)">
+	<source srcset="/img/Jindra_mobile_404x234.webp" type="image/webp">
+	<img srcset="/img/Jindra_mobile_404x234.jpg" alt="Jindra Van Den Bossche">
+</picture>
 
 Als gediplomeerd en erkend diëtiste help ik graag jong en oud met een op maat gemaakt voedings- of dieetadvies. Daarnaast geef ik u de nodige begeleiding en ondersteuning bij het aanpassen van uw voedings- en leefgewoonten. U krijgt alle advies en weetjes omtrent voeding en gezondheid.
 

@@ -90,6 +90,11 @@ header{
   @media only screen and (max-width: $sizeSmartPhone) {
     font-size: 0.7em;
   }
+
+}
+
+a.site-title:hover{
+  color: #FFFFFF;
 }
 
 nav{
@@ -146,6 +151,10 @@ footer{
   bottom:0;
   a{
     color: #e6e6e6;
+  }
+  
+  a:hover{
+    color: #FFFFFF;
   }
 }
 

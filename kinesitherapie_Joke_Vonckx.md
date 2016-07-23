@@ -8,6 +8,14 @@ permalink: /kinesitherapie/joke_vonckx
 # Kinesiste
 
 ## Joke Vonckx
+
+<picture class="portret">
+	<source srcset="/img/Joke_desktop_300x451.webp" media="(min-width: 769px)" type="image/webp">
+	<source srcset="/img/Joke_desktop_300x451.jpg" media="(min-width: 769px)">
+	<source srcset="/img/Joke_mobile_404x303.webp" type="image/webp">
+	<img srcset="/img/Joke_mobile_404x303.jpg" alt="Joke Vonckx">
+</picture>
+
 Ik volgde de afstudeerrichting pediatrie binnen de opleiding kinesitherapie en revalidatiewetenschappen aan de K.U.Leuven. In 2015 behaalde ik mijn diploma en sindsdien ben ik werkzaam als zelfstandig kinesitherapeute. Bijkomend volgde ik de cursus [‘Psychomotoriek en remedial teaching’](/kinesitherapie/psychomotoriek.html) aan Thomas More en een [trainingscursus voor het geven van TypTien](/kinesitherapie/typtien.html).  
 
 
