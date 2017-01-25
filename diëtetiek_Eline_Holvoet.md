@@ -42,7 +42,7 @@ Ik volg ook regelmatig opleidingen om mijn kennis bij te schaven. Zo kan ik stee
 
 Bespreken we wat je verwachtingen zijn en doen we een uitgebreide voedingsanamnese. Hierdoor krijg ik een beter zicht op jouw voedingsgewoontes. Aan de hand van de voedingsanamnese maak ik dat een persoonlijk dieetplan.   
 
-#### 2de consultatie: (30min)  
+#### 2de consultatie: (60min)  
 Geef ik u uitgebreid voedingsadvies aan de hand van een voedingsschema en een algemeen dagschema.    
 
 #### Opvolgconsultatie: 
