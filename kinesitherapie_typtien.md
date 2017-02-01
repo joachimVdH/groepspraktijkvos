@@ -7,7 +7,6 @@ permalink: /kinesitherapie/typtien
 
 # Typtien
 
-
 <picture class="portret">
 	<source srcset="/img/typtien.webp" type="image/webp">
 	<img srcset="/img/typtien.jpg" alt="Typtien">
