@@ -219,3 +219,13 @@ iframe{
     }
   }
 }
+
+.zomercursus{
+  img{
+    width: 100%;
+    @media only screen and (min-width: 1400px) { 
+      width: 900px;
+      float: left;
+    }
+  }
+}
