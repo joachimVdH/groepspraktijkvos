@@ -6,6 +6,21 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} @ {{ site.title }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "url": "http://groepspraktijkvos.be/",
+    "logo": "http://groepspraktijkvos.be/img/GroepsPraktijkVos@5x.png",
+    "contactPoint": [{
+      "@type": "ContactPoint",
+      "telephone": "+32-498701211",
+      "contactType": "customer service",
+      "availableLanguage": "Dutch"
+    }]
+  }
+  </script>
+
   <style>
     @font-face {
       font-family: 'Open Sans'; 
