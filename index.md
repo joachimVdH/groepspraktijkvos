@@ -2,6 +2,7 @@
 layout: default
 title: Groepspraktijk Vos
 permalink: /
+date:   2017-06-25 17:28:14 +0100
 ---
 <span align="center">
 	<picture>

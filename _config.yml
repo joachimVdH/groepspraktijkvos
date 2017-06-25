@@ -20,7 +20,7 @@ github_username:
 # Build settings
 markdown: kramdown
 destination: public
-exclude: ["Rakefile", "README.md", "public", "jekyll", "Gemfile", "Guardfile"]
+exclude: ["Rakefile", "README.md", "public", "jekyll", "Gemfile", "Guardfile","bower_components/base/changelog.html","bower_components/base/dist/index.html","bower_components/base/src/index.html","bower_components/picturefill/index.html"]
 
 gems:
   - jekyll-sitemap

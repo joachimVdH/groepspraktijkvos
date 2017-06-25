@@ -2,6 +2,7 @@
 layout: default
 title: Typtien
 permalink: /kinesitherapie/typtien
+date:   2017-06-25 17:28:14 +0100
 ---
 
 

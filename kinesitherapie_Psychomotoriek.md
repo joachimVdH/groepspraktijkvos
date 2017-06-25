@@ -2,6 +2,7 @@
 layout: default
 title: Joke Vonckx - Kinesitherapie / Psychomotoriek 
 permalink: /kinesitherapie/psychomotoriek 
+date:   2017-06-25 17:28:14 +0100
 ---
 
 

@@ -2,6 +2,7 @@
 layout: default
 title: Laurien Heylen - Logopedie 
 permalink: /logopedie/laurien_heylen
+date:   2017-06-25 17:28:14 +0100
 ---
 # Logopediste
 
