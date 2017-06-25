@@ -2,6 +2,7 @@
 layout: default
 title: Steffie Vos - Logopedie 
 permalink: /logopedie/steffie_vos
+date:   2017-06-25 17:28:14 +0100
 ---
 # Logopediste
 
