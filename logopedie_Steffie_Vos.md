@@ -8,12 +8,12 @@ date:   2017-06-25 17:28:14 +0100
 
 ## Steffie Vos
 
-<picture class="portret">
+<!-- <picture class="portret">
 	<source srcset="/img/Steffie_desktop_300x516.webp" media="(min-width: 769px)" type="image/webp">
 	<source srcset="/img/Steffie_desktop_300x516.jpg" media="(min-width: 769px)">
 	<source srcset="/img/Steffie_mobile_404x346.webp" type="image/webp">
 	<img srcset="/img/Steffie_mobile_404x346.jpg" alt="Steffie Vos">
-</picture>
+</picture> -->
 
 In 2011 studeerde ik af als Master in de logopedische en audiologische wetenschappen aan de KULeuven. Na mijn afstuderen ben ik direct als zelfstandige logopediste aan het werk gegaan. 
 
