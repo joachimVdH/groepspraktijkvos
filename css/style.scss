@@ -66,6 +66,10 @@ h1,h2,h3,h4,h5,h6{
 }
 
 header{
+
+  display: flex;
+  justify-content: center;
+
   z-index: 20000;
   top:0px;
   background-color: $colorGreenHeader;
@@ -77,41 +81,46 @@ header{
   opacity: 0.97;
   filter: alpha(opacity=97);/* For IE8 and earlier */
   
-  height: 6em;
-  padding: 1.8em; 
+  // height: 6em;
+  // padding: 1.8em; 
   
-  @media only screen and (max-width: $sizeSmartPhone) {
+  // @media only screen and (max-width: $sizeSmartPhone) {
     height: 4em;
     padding: 0.5em;
+  // }
+  img{
+    @media only screen and (max-width: $sizeSmartPhone) {
+      padding-right: 0.5em;
+    }
+    @media only screen and (min-width: $sizeSmartPhone +1) {
+      padding-right: 0.8em;
+    }
+    // display: block;
+    // max-width:42px;
+    // max-height:53px;
+    // width: auto;
+    // height: auto;
   }
 }
 
 .site-title{
 
-  display: flex;
-  justify-content: center;
   align-items: center;
 
   /*padding-top: 0.7em;*/
   
   font-weight: 700;
-  font-size: 1em;
+  // font-size: 1em;
+  font-size: 0.7em;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #FFFFFF;
   
-  @media only screen and (max-width: $sizeSmartPhone) {
-    font-size: 0.7em;
-  }
+  // @media only screen and (max-width: $sizeSmartPhone) {
+    // font-size: 0.7em;
+  // }
   
-  img{
-      @media only screen and (max-width: $sizeSmartPhone) {
-        padding-right: 0.5em;
-      }
-      @media only screen and (min-width: $sizeSmartPhone +1) {
-        padding-right: 0.8em;
-      }
-    }
+  
 }
 
 a.site-title:hover{
