@@ -22,5 +22,5 @@ markdown: kramdown
 destination: public
 exclude: ["Rakefile", "README.md", "public", "jekyll", "Gemfile", "Guardfile","bower_components/base/changelog.html","bower_components/base/dist/index.html","bower_components/base/src/index.html","bower_components/picturefill/index.html","bower_components/Ionicons/index.html"]
 
-gems:
+plugins:
   - jekyll-sitemap
