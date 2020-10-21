@@ -10,4 +10,6 @@ date:   2017-06-25 17:28:14 +0100
 
 <ul>
 	<li><a href="{{ site.baseurl }}/kinesitherapie/joke_vonckx.html">Joke Vonckx</a></li>
+	<li>Tine Standaert</li>
+	<li>Noémi Coppers</li>
 </ul>
