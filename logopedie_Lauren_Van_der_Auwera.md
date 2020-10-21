@@ -40,6 +40,5 @@ Voor een afspraak of meer info kan u mij contacteren via mail <script type="text
 // This code is freeware provided these four comment lines remain intact - A wizard to generate this code is at http://www.jottings.com/obfuscator/
 { coded = "IAb.Ob2Ltc@HfbWO.Fyf"; key = "4UcDQkRvY9MSoEumtHVl1KFaqrCIwd8jyp2fizJO3B6bnLGZTAsx50h7WPegNX";  shift=coded.length;  link="";  for (i=0; i<coded.length; i++) { if (key.indexOf(coded.charAt(i))==-1) {  ltr = coded.charAt(i);  link += (ltr);  }  else {  ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length;  link += (key.charAt(ltr));  }  } document.write("<a href='mailto:"+link+"'>"+link+"</a>")} //-->
 </script><noscript>Sorry, je hebt Javascript nodig om me te mailen. Dit staat momenteel af in je browser.</noscript> of via GSM 
-<a href="tel:+32470072362” itemprop="telephone">0470 / 07 23 62</a>  
-  
+<a href="tel:+32470072362" itemprop="telephone"> 0470 / 07 23 62 </a>  
   
