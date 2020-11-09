@@ -10,12 +10,10 @@ date:   2017-06-25 17:28:14 +0100
 
 ## Tine Standaert
 
-<!-- <picture class="portret">
-	<source srcset="/img/Joke_desktop_300x451.webp" media="(min-width: 769px)" type="image/webp">
-	<source srcset="/img/Joke_desktop_300x451.jpg" media="(min-width: 769px)">
-	<source srcset="/img/Joke_mobile_404x303.webp" type="image/webp">
-	<img srcset="/img/Joke_mobile_404x303.jpg" alt="Joke Vonckx">
-</picture> -->
+ <picture class="portret">
+	<source srcset="/img/TineStandaert_desktop_300x516.jpg" media="(min-width: 769px)">
+	<img srcset="/img/TineStandaert_mobile_404x346.jpg" alt="Tine Standaert">
+</picture> 
 	
 In 2018 behaalde ik mijn diploma “Master Kinesitherapie en Revalidatiewetenschappen – Pediatrie” aan K.U.Leuven.  
 Bijkomend heb ik de cursus “Psychomotorische ontwikkeling en remediërend leren” gevolgd aan Thomas More met aansluitende de “2Hands4Kids typmethode” van Wendy Peerlings.  

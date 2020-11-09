@@ -9,12 +9,10 @@ date:   2020-11-04 21:28:14 +0100
 
 ## Noémi Coppers
 
-<!-- <picture class="portret">
-	<source srcset="/img/Joke_desktop_300x451.webp" media="(min-width: 769px)" type="image/webp">
-	<source srcset="/img/Joke_desktop_300x451.jpg" media="(min-width: 769px)">
-	<source srcset="/img/Joke_mobile_404x303.webp" type="image/webp">
-	<img srcset="/img/Joke_mobile_404x303.jpg" alt="Joke Vonckx">
-</picture> -->
+<picture class="portret">
+	<source srcset="/img/NoémiCoppers_desktop_300x516.jpg" media="(min-width: 769px)">
+	<img srcset="/img/NoémiCoppers_mobile_404x346.jpg" alt="Noémi Coppers">
+</picture> 
 	
 In 2020 behaalde ik mijn diploma als Master in Revalidatiewetenschappen en Kinesitherapie aan de KULeuven. Tijdens mijn stageperiodes ontdekte ik mijn sterke interesse voor de werking van de hersenen en de invloed hiervan op het functioneren. Bijgevolg specialiseerde ik mij in zowel neuromotorische revalidatie als pediatrie, twee vakgebieden die elkaar heel goed aanvullen.  
   
