@@ -10,10 +10,10 @@ date:   2020-11-04 21:28:14 +0100
 ## Noémi Coppers
 
 <picture class="portret">
-	<source srcset="/img/NoémiCoppers_desktop_300x516.jpg" media="(min-width: 769px)">
-	<img srcset="/img/NoémiCoppers_mobile_404x346.jpg" alt="Noémi Coppers">
-</picture> 
-	
+	<source srcset="/img/NoemiCoppers_desktop_300x516.jpg" media="(min-width: 769px)">
+	<img srcset="/img/NoemiCoppers_mobile_404x346.jpg" alt="Noémi Coppers">
+</picture>  
+  
 In 2020 behaalde ik mijn diploma als Master in Revalidatiewetenschappen en Kinesitherapie aan de KULeuven. Tijdens mijn stageperiodes ontdekte ik mijn sterke interesse voor de werking van de hersenen en de invloed hiervan op het functioneren. Bijgevolg specialiseerde ik mij in zowel neuromotorische revalidatie als pediatrie, twee vakgebieden die elkaar heel goed aanvullen.  
   
 Gebeten door ons mooie vak, school ik mij graag bij. Momenteel volg ik de jaarcursus “Psychomotorische ontwikkeling en remediërend leren” aan de Thomas More Hogeschool, om mijn kennis omtrent leer- en ontwikkelingsproblemen nog meer te verruimen.  
