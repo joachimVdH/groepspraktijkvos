@@ -3,6 +3,7 @@ layout: default
 title: Tine Standaert - Kinesitherapie / Psychomotoriek 
 permalink: /kinesitherapie/tine_standaert
 date:   2017-06-25 17:28:14 +0100
+sitemap: false
 ---
 
 # Kinesiste
@@ -27,11 +28,4 @@ Bij mij kan je terecht voor: 
 
 
 
-Voor een afspraak kan u mij contacteren via mail (<script type="text/javascript" language="javascript">
-<!--
-// Email obfuscator script 2.1 by Tim Williams, University of Arizona
-// Random encryption key feature by Andrewlink+ Moulden, Site Engineering Ltd
-// This code is freeware provided these four comment lines remain intact
-// A wizard to generate this code is at http://www.jottings.com/obfuscator/
-{ coded = "PelxOelxReP0xzrDex@oHreC.fVH";key = "zK68YMaDqjl10XGs3yfdetmbuoNAIJ2TkvrFLwCW4pBRnShUxPH5cVi9QE7gOZ";shift=coded.length;link="";for (i=0; i<coded.length; i++) {if (key.indexOf(coded.charAt(i))==-1) {ltr = coded.charAt(i);link += (ltr);}else {ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length;link += (key.charAt(ltr))}}document.write("<a href='mailto:"+link+"'>"+link+"</a>")}
-//--></script><noscript>Sorry, je hebt Javascript nodig om me te mailen. Dit staat momenteel af in je browser.</noscript>) of GSM (<a href="tel:+32476519949" itemprop="telephone">0476/51 99 49</a>)
+Voor een afspraak kan u mij contacteren via https://groepspraktijkvos.be/contact/
