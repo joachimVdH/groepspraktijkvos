@@ -15,18 +15,24 @@ date:   2017-06-25 17:28:14 +0100
 	<img srcset="/img/Laurien_mobile_404x310.jpg" alt="Laurien Heylen">
 </picture>
 
-In 2013 ben ik afgestudeerd aan de K.U.Leuven als Master in de logopedische en audiologische wetenschappen. Sindsdien werk ik als zelfstandige logopediste met zowel kinderen, jongeren als volwassenen. De therapie kan doorgaan op school, in de praktijk of bij de patiënten thuis.
+In 2013 ben ik afgestudeerd aan de K.U.Leuven als Master in de logopedische en audiologische wetenschappen. Sindsdien werk ik als zelfstandige logopediste. In 2016 voegde ik me als zelfstandige bij het team van Groepspraktijk Vos.  
+Op regelmatige basis blijf ik me bijscholen in verschillende logopedische domeinen. Ik volgde onder andere studiedagen over comorbiditeit, vreemde talen leren met dyslexie, rekenen volgens de methode van Eureka, overstap naar het middelbaar voor rekenzwakke kinderen, ouderbegeleiding, …   
+In 2018 koos ik voor verdere specialisatie in lezen en spelling met de cursus “Gedragstherapie bij dyslexie en dysorthografie” van het Centrum voor Toepassing van Gedragstherapie in de Logopedie.  
+Daarnaast volgde ik een specialisatie in de oromyofunctionele therapie (OMFT).  
+Ik zet mij ook graag in als stagebegeleider voor studenten logopedie.  
  
-Ik behandel zowel kinderen, jongeren als volwassenen met:
+Kinderen, jongeren en volwassenen kunnen bij mij terecht voor onderzoek en behandeling van:  
 
-* Leermoeilijkheden en -stoornissen (dyslexie, dysorthografie en dyscalculie)
-* Articulatiestoornissen - myofunctionele stoornissen
-* Taalstoornissen - fonologische stoornissen
-* Neurogene taal-, spraak- en slikstoornissen - voedingsproblemen
-* Ontwikkelingsstoornissen (AD(H)D, autisme, dyspraxie en NLD)
-* Stemstoornissen (stembandknobbels, dysfonie, afonie, mutatiestoornissen,…)
+* Dyslexie (lezen), dysorthografie (spelling) en dyscalculie (rekenen)
+* Myofunctionele stoornissen (foutieve tongligging, openmondgedrag, open beet, duimzuigen, …) 
+* Articulatiestoornissen 
+* Fonologische stoornissen  (het onderscheid tussen verschillende klanken beseffen, …) 
+* Taalstoornissen (beperkte woordenschat en/of zinsbouw, begrijpen van opdrachten, …) 
 
-Een afspraak maken of meer info? 
+Er wordt steeds rekening gehouden met eventueel bijkomende ontwikkelingsstoornissen zoals ADD, ADHD, autisme, dyspraxie, …  
+
+De therapie kan doorgaan op school, in de praktijk of tijdens een huisbezoek.  
+Een afspraak maken of vrijblijvende info? 
 Contacteer me via mail (<script type="text/javascript" language="javascript">
 <!--
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona Random encryption key feature by Andrew Moulden, Site Engineering Ltd This code is freeware provided these four comment lines remain intact
