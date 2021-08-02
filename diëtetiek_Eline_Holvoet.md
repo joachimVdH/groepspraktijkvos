@@ -15,14 +15,11 @@ date:   2017-06-25 17:28:14 +0100
 	<img srcset="/img/Eline_mobile_404x290.jpg" alt="Eline Holvoet">
 </picture>
 
-In 2015 ben ik afgestudeerd als bachelor Voedings- en dieetkunde aan de AP hogeschool in Antwerpen. Ik ben een erkende diëtiste bij het RIZIV.   
+In 2015 ben ik afgestudeerd als bachelor Voedings- en dieetkunde aan de AP hogeschool in Antwerpen. Ik ben een erkende diëtiste bij het RIZIV.  
 Mijn doel is om mensen te motiveren en te begeleiden naar een gezonder leven.  
-Dit door ze te ondersteunen en te begeleiden naar een gezondere voedingsgewoonte.    
-Zowel jong als oud kan bij mij terecht.     
-  
-Ik volg ook regelmatig opleidingen om mijn kennis bij te schaven. Zo kan ik steeds persoonlijk voedingsadvies geven volgens de laatste ontwikkelingen op gebied van voeding.  
+Dit door ze te ondersteunen en te begeleiden naar een gezondere voedingsgewoontes. Zowel jong als oud kan bij mij terecht.  
 
-Daarnaast ben ik verpleegkunde in avondschool aan het volgen. Hierdoor heb ik ook een ruime kennis van pathologie en medicatie.  
+Ik ben daarnaast ook afgestudeerd als psychiatrisch verpleegkundige. Hierdoor heb ik ook een ruime kennis van pathologie en medicatie. Als hoofdberoep ben ik psychiatrisch verpleegkundige in de jeugdpsychiatrie bij jongeren met een eetstoornis.  
 
 ### Voor volgende zaken kan je bij mij terecht: 
 
@@ -31,9 +28,7 @@ Daarnaast ben ik verpleegkunde in avondschool aan het volgen. Hierdoor heb ik oo
 * Begeleiding van patiënten met overgewicht en obesitas 
 * Te hoge cholesterol 
 * Te hoge bloeddruk 
-* Eetstoornissen 
 * Prikkelbaar darmsyndroom 
-* Slikstoornissen bij ouderen 
 * Lactose- of glutenintoleranties 
 * Alternatieve voedingswijze (vegetarisme,…) 
 
@@ -42,7 +37,7 @@ Daarnaast ben ik verpleegkunde in avondschool aan het volgen. Hierdoor heb ik oo
 
 #### 1ste consultatie: (60min) 
 
-Bespreken we wat je verwachtingen zijn en doen we een uitgebreide voedingsanamnese. Hierdoor krijg ik een beter zicht op jouw voedingsgewoontes. Aan de hand van de voedingsanamnese maak ik dat een persoonlijk dieetplan.   
+Bespreken we wat je verwachtingen zijn en doen we een uitgebreide voedingsanamnese. Hierdoor krijg ik een beter zicht op jouw voedingsgewoontes. Aan de hand van de voedingsanamnese maak ik  een persoonlijk dieetplan.   
 
 #### 2de consultatie: (60min)  
 Geef ik u uitgebreid voedingsadvies aan de hand van een voedingsschema en een algemeen dagschema.    
@@ -51,9 +46,9 @@ Geef ik u uitgebreid voedingsadvies aan de hand van een voedingsschema en een al
 
 Overlopen van het eetdagboekje. We bespreken mogelijke hindernissen en gaan samen opzoek naar oplossingen. De opvolg consultaties dienen om het dieet te ondersteunen.    
   
-### Tarieven:  
-* 1e en 2e consultatie (60 minuten): € 50 
-* Opvolgconsultaties (30 minuten): € 25   
+### Tarieven: 
+* 1e en 2e consultatie (60 minuten): € 60 
+* Opvolgconsultaties (30 minuten): € 30   
   
 * Je krijgt via de mutualiteit een deel terugbetaald. 
 * Koppels die samen komen: 2de persoon aan helft van de prijs  
